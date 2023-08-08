@@ -8,7 +8,7 @@ It was inspired by this post: [Hello, JIT World: The Joy of Simple JITs](http://
 
 This is a port from [Go](https://github.com/xyproto/jit) to Rust.
 
-## Example use
+## Example use on x86_64
 
 Return the number `42`:
 
