@@ -1,0 +1,10 @@
+[workspace]
+members = ["jitrun"]
+
+[package]
+name = "machinecode"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+libc = "0.2"

@@ -1,0 +1,8 @@
+!jitrun/Cargo.lock
+*.bak
+*.o
+*.swp
+*.tmp
+Cargo.lock
+jitrun/target/
+target/
