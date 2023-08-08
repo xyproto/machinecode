@@ -1,6 +1,10 @@
+# Machinecode
+
 Execute machine code in hex form.
 
 This repo includes both a Rust package and a utility called `jitrun`.
+
+This is a port from [Go](https://github.com/xyproto/jit) to Rust.
 
 ## Example use
 
