@@ -2,17 +2,17 @@
 members = ["jitrun"]
 
 [package]
-name = "machinecode"
-version = "1.0.0"
 authors = ["Alexander F. Rødseth <xyproto@archlinux.org>"]
-exclude = [
-  "examples",
-]
+categories = ["development-tools::jit"]
 description = "Execute machine code in hex form"
+edition = "2018"
+exclude = ["examples"]
 homepage = "https://github.com/xyproto/machinecode"
 keywords = ["jit", "machinecode", "unsafe"]
-license = "BSD-3"
-edition = "2018"
+license = "BSD-3-Clause"
+name = "machinecode"
+repository = "https://github.com/xyproto/machinecode"
+version = "1.0.0"
 
 [dependencies]
 libc = "0.2"
