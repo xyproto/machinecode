@@ -6,7 +6,7 @@ This repo includes both a Rust package and a utility called `jitrun`.
 
 It was inspired by this post: [Hello, JIT World: The Joy of Simple JITs](http://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html).
 
-This is a port of [jit](https://github.com/xyproto/jit) from Go to Rust.
+For a similar project written in Go, check out [jit](https://github.com/xyproto/jit).
 
 ## Example use on x86_64
 
