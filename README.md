@@ -1,6 +1,6 @@
 # Machinecode
 
-Execute machine code in hex form.
+Execute machine code.
 
 This repo includes both a Rust package and a utility called `jitrun`.
 
